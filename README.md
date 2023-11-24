@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Blazingshadows
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Web Dev
+- I have some experience in Game Devolopment
 - 🌱 I’m currently learning unreal c++,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
