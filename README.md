@@ -7,8 +7,10 @@
 
 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blazingshadows&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Blazingshadows&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blazingshadows&layout=compact)
 
-🌐 Portfolio: [yourportfolio.site](#)
+
 
 <!---
 Blazingshadows/Blazingshadows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
