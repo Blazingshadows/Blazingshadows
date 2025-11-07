@@ -34,13 +34,14 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blazingshadows&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazingshadows&layout=compact&hide_title=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Blazingshadows&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazingshadows&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Blazingshadows&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Blazingshadows&background=00000000&border=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
 </p>
+
 
 ---
 
