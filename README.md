@@ -1,7 +1,5 @@
 <!-- Profile Banner (optional: replace link or remove if you don't want a banner) -->
-<p align="center">
-  <img src="https://github.com/<username>/<username>/assets/banner.png" alt="Banner" />
-</p>
+
 
 <h1 align="center">Aditya Dixit</h1>
 <p align="center">Machine Learning • Backend Engineering • C++ • Data</p>
