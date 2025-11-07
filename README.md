@@ -34,12 +34,12 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blazingshadows&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazingshadows&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="165"/>
+    ![Blazingshadows's Stats](https://github-readme-stats.vercel.app/api?username=Blazingshadows&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+    ![Blazingshadows's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blazingshadows&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Blazingshadows&background=00000000&border=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
+  ![Blazingshadows's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Blazingshadows&theme=vue-dark&hide_border=true)
 </p>
 
 
