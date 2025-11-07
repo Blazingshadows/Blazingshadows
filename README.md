@@ -33,14 +33,10 @@
 
 ### GitHub Analytics
 
-<p align="center">
+
     ![Blazingshadows's Stats](https://github-readme-stats.vercel.app/api?username=Blazingshadows&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
     ![Blazingshadows's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blazingshadows&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</p>
-
-<p align="center">
-  ![Blazingshadows's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Blazingshadows&theme=vue-dark&hide_border=true)
-</p>
+    ![Blazingshadows's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Blazingshadows&theme=vue-dark&hide_border=true)
 
 
 ---
