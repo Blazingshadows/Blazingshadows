@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Blazingshdaows&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Blazingshadows&hide_border=true" height="165"/>
 </p>
 
 ---
