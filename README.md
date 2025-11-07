@@ -34,12 +34,12 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&hide_title=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Blazingshadows&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazingshadows&layout=compact&hide_title=true&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=<your-github-username>&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Blazingshdaows&hide_border=true" height="165"/>
 </p>
 
 ---
