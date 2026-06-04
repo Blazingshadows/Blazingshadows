@@ -14,9 +14,9 @@ CS undergrad @ <strong>Manipal University Jaipur</strong> (Batch of 2027) · Bui
 Hey! I'm a third-year CS student who loves turning messy, real-world data into things that actually work. Right now I'm most excited about **multimodal ML**, **computer vision**, and making models useful outside of notebooks. When I'm not coding I'm probably watching lecture videos or trying to keep my LeetCode streak alive.
 
 - 🔭 Currently working on: **EmotionFlow** — multimodal emotion recognition (CV + audio)
-- 🌊 Recent: AI-driven platform for large-scale **oceanographic data**
+- 🌊 Recent: ExplainMyRepo
 - 🌱 Learning: DSA patterns, SQL, LLM fine-tuning
-- 💼 Looking for: ML / SDE internship opportunities (2025–26)
+- 💼 Looking for: ML / SDE internship opportunities (2026-27)
 
 ---
 
